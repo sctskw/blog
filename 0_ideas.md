@@ -2,6 +2,7 @@ Blog Post Ideas
 ---
 
 * Thoughts
+	- Why Culture is Important
 	- Stop Using ORM's
     - Learn to Write
     - Learn to Spec
