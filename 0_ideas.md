@@ -2,14 +2,17 @@ Blog Post Ideas
 ---
 
 * Thoughts
+	- Soft Skills: Intro
+    - Soft Skills: Learn to Write
+    - Soft Skills: Learn to Schedule
 	- Why Culture is Important
 	- Stop Using ORM's
-    - Learn to Write
-    - Learn to Spec
-    - Proper Unit Testing
+    - The Technical Spec: don't be afraid
+    - Unit Testing (Properly)
     - Re-Evaluating the Interview
     - Learning C
     - Learning Rust
+    - Learning GoLang
 
 * Binary Trees
 	- Intro
